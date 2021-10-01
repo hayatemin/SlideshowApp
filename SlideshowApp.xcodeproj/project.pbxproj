@@ -13,9 +13,9 @@
 		2A07E979270472B500D5B8B8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A07E977270472B500D5B8B8 /* Main.storyboard */; };
 		2A07E97B270472B500D5B8B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A07E97A270472B500D5B8B8 /* Assets.xcassets */; };
 		2A07E97E270472B500D5B8B8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A07E97C270472B500D5B8B8 /* LaunchScreen.storyboard */; };
-		2A826E932706F0D800B96AE3 /* 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2A826E922706F0D800B96AE3 /* 1.jpeg */; };
-		2A826E962706F0DC00B96AE3 /* 2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2A826E952706F0DC00B96AE3 /* 2.jpeg */; };
-		2A826E992706F0E100B96AE3 /* 3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2A826E982706F0E100B96AE3 /* 3.jpeg */; };
+		2A9B8EBF27073A7C004D825A /* 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2A9B8EBE27073A7C004D825A /* 1.jpeg */; };
+		2A9B8EC227073A87004D825A /* 2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2A9B8EC127073A87004D825A /* 2.jpeg */; };
+		2A9B8EC527073A8C004D825A /* 3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2A9B8EC427073A8C004D825A /* 3.jpeg */; };
 		2AA3DE7F2706E39800687BAA /* ZoomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA3DE7E2706E39800687BAA /* ZoomViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -28,9 +28,9 @@
 		2A07E97A270472B500D5B8B8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2A07E97D270472B500D5B8B8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2A07E97F270472B500D5B8B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2A826E922706F0D800B96AE3 /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 1.jpeg; path = "../../../写真/1.jpeg"; sourceTree = "<group>"; };
-		2A826E952706F0DC00B96AE3 /* 2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 2.jpeg; path = "../../../写真/2.jpeg"; sourceTree = "<group>"; };
-		2A826E982706F0E100B96AE3 /* 3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 3.jpeg; path = "../../../写真/3.jpeg"; sourceTree = "<group>"; };
+		2A9B8EBE27073A7C004D825A /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpeg; sourceTree = "<group>"; };
+		2A9B8EC127073A87004D825A /* 2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 2.jpeg; path = "../../../写真/2.jpeg"; sourceTree = "<group>"; };
+		2A9B8EC427073A8C004D825A /* 3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 3.jpeg; path = "../../../写真/3.jpeg"; sourceTree = "<group>"; };
 		2AA3DE7E2706E39800687BAA /* ZoomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZoomViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -72,9 +72,9 @@
 				2A07E97A270472B500D5B8B8 /* Assets.xcassets */,
 				2A07E97C270472B500D5B8B8 /* LaunchScreen.storyboard */,
 				2A07E97F270472B500D5B8B8 /* Info.plist */,
-				2A826E922706F0D800B96AE3 /* 1.jpeg */,
-				2A826E952706F0DC00B96AE3 /* 2.jpeg */,
-				2A826E982706F0E100B96AE3 /* 3.jpeg */,
+				2A9B8EBE27073A7C004D825A /* 1.jpeg */,
+				2A9B8EC127073A87004D825A /* 2.jpeg */,
+				2A9B8EC427073A8C004D825A /* 3.jpeg */,
 			);
 			path = SlideshowApp;
 			sourceTree = "<group>";
@@ -136,12 +136,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2A826E962706F0DC00B96AE3 /* 2.jpeg in Resources */,
+				2A9B8EC227073A87004D825A /* 2.jpeg in Resources */,
 				2A07E97E270472B500D5B8B8 /* LaunchScreen.storyboard in Resources */,
 				2A07E97B270472B500D5B8B8 /* Assets.xcassets in Resources */,
-				2A826E992706F0E100B96AE3 /* 3.jpeg in Resources */,
+				2A9B8EC527073A8C004D825A /* 3.jpeg in Resources */,
 				2A07E979270472B500D5B8B8 /* Main.storyboard in Resources */,
-				2A826E932706F0D800B96AE3 /* 1.jpeg in Resources */,
+				2A9B8EBF27073A7C004D825A /* 1.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
